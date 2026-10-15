@@ -1,6 +1,6 @@
 # Fares Sellami — Full-Stack Engineer
 
-🎓 BEng Software Engineering (Year 2) — Xiamen University Malaysia (XMUM)
+🎓 BEng Software Engineering (Year 3) — Xiamen University Malaysia (XMUM)
 ⚙️ Core Cadet — 42 KL (École 42 Network, hosted at Sunway University)
 🌍 Based in Kuala Lumpur, Malaysia
 
